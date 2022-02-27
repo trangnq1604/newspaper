@@ -1,0 +1,24 @@
+ .box-related-posts .box-head-related-posts h5 {
+     text-transform: uppercase;
+ }
+ 
+ .box-related-posts .box-head-related-posts {
+     border-bottom: 1px solid #01a050;
+ }
+ 
+ .box-head-detail a h5:hover {
+     color: #01a050;
+ }
+ 
+ .box-body-related-posts .item a {
+     display: block;
+     text-decoration: none;
+     font-size: 0.8rem;
+     padding-top: 1rem;
+     color: black;
+     font-weight: bold;
+ }
+ 
+ .box-body-related-posts .item a:hover {
+     color: #01a050;
+ }

@@ -1,0 +1,30 @@
+.top-news {
+    border-bottom: 1px solid #01a050;
+}
+
+.title h5 {
+    color: black;
+    font-weight: 600 !important;
+}
+
+.title h5:hover {
+    color: #01a050;
+}
+
+.content .media-body h5 a {
+    text-decoration: none;
+    color: black;
+}
+
+.content .media-body h5 a:hover {
+    color: #01a050;
+}
+
+.content .media-body .date-time {
+    font-size: 0.7rem;
+    color: gray;
+}
+
+.content .media-body p {
+    font-size: 0.8rem;
+}
